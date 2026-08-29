@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Ali portfolio social preview">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1200" y2="630">
+      <stop stop-color="#09090B"/>
+      <stop offset=".56" stop-color="#111827"/>
+      <stop offset="1" stop-color="#120D28"/>
+    </linearGradient>
+    <linearGradient id="a" x1="160" y1="120" x2="990" y2="560">
+      <stop stop-color="#5B8CFF"/>
+      <stop offset=".55" stop-color="#00E5FF"/>
+      <stop offset="1" stop-color="#7C4DFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <path d="M113 106h974v418H113z" fill="#fff" opacity=".04"/>
+  <path d="M170 482C256 250 399 126 600 126s344 124 430 356" fill="none" stroke="url(#a)" stroke-width="3" opacity=".7"/>
+  <text x="156" y="264" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="72" font-weight="900">Ali Nasser Mohammed</text>
+  <text x="156" y="346" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="72" font-weight="900">Bamkhshab</text>
+  <text x="160" y="412" fill="#00E5FF" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="800">Software Engineer | Mobile Application Development</text>
+  <text x="160" y="466" fill="#A1A1AA" font-family="Inter, Arial, sans-serif" font-size="24">Flutter. Firebase. ASP.NET Core. RESTful APIs. Responsive mobile UI.</text>
+</svg>

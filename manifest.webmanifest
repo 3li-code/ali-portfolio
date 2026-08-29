@@ -1,0 +1,17 @@
+{
+  "name": "Ali Nasser Mohammed Bamkhshab Portfolio",
+  "short_name": "Ali.dev",
+  "description": "Premium portfolio for Software Engineer Ali Nasser Mohammed Bamkhshab.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#09090B",
+  "theme_color": "#09090B",
+  "icons": [
+    {
+      "src": "assets/icons/favicon.svg",
+      "sizes": "64x64",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

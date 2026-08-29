@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 720" role="img" aria-label="Masarak candidate profile screen">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="360" y2="720">
+      <stop stop-color="#10131F"/>
+      <stop offset="1" stop-color="#09090B"/>
+    </linearGradient>
+    <linearGradient id="p" x1="104" y1="118" x2="252" y2="264">
+      <stop stop-color="#7C4DFF"/>
+      <stop offset="1" stop-color="#00E5FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="360" height="720" rx="46" fill="#050507"/>
+  <rect x="13" y="13" width="334" height="694" rx="38" fill="url(#g)" stroke="#343846"/>
+  <rect x="136" y="27" width="88" height="8" rx="4" fill="#2A2E38"/>
+  <text x="44" y="82" fill="#fff" font-family="Inter, Arial" font-size="24" font-weight="800">Candidate</text>
+  <circle cx="180" cy="168" r="56" fill="url(#p)"/>
+  <text x="180" y="177" text-anchor="middle" fill="#fff" font-family="Inter, Arial" font-size="28" font-weight="900">CV</text>
+  <text x="180" y="258" text-anchor="middle" fill="#fff" font-family="Inter, Arial" font-size="20" font-weight="800">Mobile Developer</text>
+  <text x="180" y="286" text-anchor="middle" fill="#A1A1AA" font-family="Inter, Arial" font-size="13">Flutter - Firebase - APIs</text>
+  <rect x="44" y="332" width="272" height="12" rx="6" fill="#242A3A"/>
+  <rect x="44" y="332" width="218" height="12" rx="6" fill="#00E5FF"/>
+  <text x="44" y="382" fill="#fff" font-family="Inter, Arial" font-size="18" font-weight="800">Qualification</text>
+  <g fill="#171A24" stroke="#2D3345">
+    <rect x="44" y="408" width="272" height="54" rx="14"/>
+    <rect x="44" y="478" width="272" height="54" rx="14"/>
+    <rect x="44" y="548" width="272" height="54" rx="14"/>
+  </g>
+  <g fill="#A1A1AA" font-family="Inter, Arial" font-size="13">
+    <text x="66" y="441">REST API Integration</text>
+    <text x="66" y="511">Clean Architecture</text>
+    <text x="66" y="581">Pixel-perfect UI</text>
+  </g>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 720" role="img" aria-label="Masarak dashboard screen">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="360" y2="720">
+      <stop stop-color="#10131F"/>
+      <stop offset="1" stop-color="#09090B"/>
+    </linearGradient>
+    <linearGradient id="b" x1="44" y1="108" x2="316" y2="214">
+      <stop stop-color="#5B8CFF"/>
+      <stop offset="1" stop-color="#00E5FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="360" height="720" rx="46" fill="#050507"/>
+  <rect x="13" y="13" width="334" height="694" rx="38" fill="url(#g)" stroke="#343846"/>
+  <rect x="136" y="27" width="88" height="8" rx="4" fill="#2A2E38"/>
+  <text x="44" y="82" fill="#fff" font-family="Inter, Arial" font-size="24" font-weight="800">Masarak</text>
+  <rect x="44" y="110" width="272" height="104" rx="16" fill="url(#b)" opacity=".9"/>
+  <text x="66" y="153" fill="#fff" font-family="Inter, Arial" font-size="18" font-weight="800">Find qualified talent</text>
+  <text x="66" y="184" fill="#EAF7FF" font-family="Inter, Arial" font-size="13">Post jobs. Review CVs. Hire faster.</text>
+  <rect x="44" y="246" width="128" height="86" rx="14" fill="#171A24" stroke="#2D3345"/>
+  <rect x="188" y="246" width="128" height="86" rx="14" fill="#171A24" stroke="#2D3345"/>
+  <text x="62" y="281" fill="#00E5FF" font-family="Inter, Arial" font-size="24" font-weight="900">28</text>
+  <text x="206" y="281" fill="#00E5FF" font-family="Inter, Arial" font-size="24" font-weight="900">12</text>
+  <text x="62" y="309" fill="#A1A1AA" font-family="Inter, Arial" font-size="12">Candidates</text>
+  <text x="206" y="309" fill="#A1A1AA" font-family="Inter, Arial" font-size="12">Open roles</text>
+  <text x="44" y="380" fill="#fff" font-family="Inter, Arial" font-size="18" font-weight="800">Recent matches</text>
+  <g fill="#171A24" stroke="#2D3345">
+    <rect x="44" y="404" width="272" height="72" rx="14"/>
+    <rect x="44" y="492" width="272" height="72" rx="14"/>
+    <rect x="44" y="580" width="272" height="72" rx="14"/>
+  </g>
+  <g fill="#A1A1AA" font-family="Inter, Arial" font-size="12">
+    <text x="98" y="435">Mobile Developer</text>
+    <text x="98" y="523">Backend Engineer</text>
+    <text x="98" y="611">UI Engineer</text>
+  </g>
+  <g fill="#5B8CFF">
+    <circle cx="70" cy="439" r="18"/>
+    <circle cx="70" cy="527" r="18"/>
+    <circle cx="70" cy="615" r="18"/>
+  </g>
+</svg>

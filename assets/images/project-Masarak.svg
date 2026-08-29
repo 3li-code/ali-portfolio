@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 475" role="img" aria-label="Masarak preview">
+  <rect width="760" height="475" fill="#09090B"/>
+  <path d="M120 376C210 162 360 77 640 118" fill="none" stroke="#00E5FF" stroke-width="3" opacity=".55"/>
+  <rect x="88" y="78" width="240" height="318" rx="22" fill="#111114" stroke="#2C3142"/>
+  <rect x="368" y="110" width="304" height="74" rx="18" fill="#182033" stroke="#30415F"/>
+  <rect x="368" y="212" width="304" height="74" rx="18" fill="#182033" stroke="#30415F"/>
+  <rect x="368" y="314" width="222" height="42" rx="12" fill="#5B8CFF"/>
+  <text x="112" y="430" fill="#fff" font-family="Inter, Arial" font-size="34" font-weight="900">Masarak</text>
+</svg>

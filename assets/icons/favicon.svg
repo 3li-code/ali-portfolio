@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Ali portfolio favicon">
+  <defs>
+    <linearGradient id="g" x1="8" y1="8" x2="56" y2="56" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5B8CFF"/>
+      <stop offset=".55" stop-color="#00E5FF"/>
+      <stop offset="1" stop-color="#7C4DFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="#09090B"/>
+  <rect x="7" y="7" width="50" height="50" rx="12" fill="url(#g)" opacity=".22"/>
+  <path d="M18 46 30 16h5l12 30h-7l-2.3-6.4H27.1L24.8 46H18Zm11-12h6.7l-3.3-9.5L29 34Z" fill="#fff"/>
+</svg>

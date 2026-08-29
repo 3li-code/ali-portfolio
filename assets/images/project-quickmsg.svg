@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 475" role="img" aria-label="QuickMsg preview">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="760" y2="475">
+      <stop stop-color="#09090B"/>
+      <stop offset=".55" stop-color="#101525"/>
+      <stop offset="1" stop-color="#111114"/>
+    </linearGradient>
+    <linearGradient id="bubble" x1="120" y1="84" x2="618" y2="350">
+      <stop stop-color="#5B8CFF"/>
+      <stop offset=".52" stop-color="#00E5FF"/>
+      <stop offset="1" stop-color="#7C4DFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="760" height="475" fill="url(#bg)"/>
+  <circle cx="606" cy="116" r="112" fill="#5B8CFF" opacity=".16"/>
+  <circle cx="154" cy="360" r="140" fill="#00E5FF" opacity=".10"/>
+  <rect x="92" y="70" width="576" height="334" rx="24" fill="#111114" stroke="#2C3142"/>
+  <rect x="132" y="116" width="238" height="54" rx="18" fill="url(#bubble)"/>
+  <rect x="390" y="194" width="236" height="54" rx="18" fill="#182033" stroke="#30415F"/>
+  <rect x="132" y="272" width="318" height="54" rx="18" fill="#00E5FF" opacity=".78"/>
+  <circle cx="606" cy="128" r="28" fill="#7C4DFF"/>
+  <circle cx="606" cy="128" r="10" fill="#fff"/>
+  <text x="112" y="430" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="900">QuickMsg</text>
+  <text x="290" y="430" fill="#A1A1AA" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="700">Real-time messaging</text>
+</svg>

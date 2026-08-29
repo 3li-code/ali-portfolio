@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 475" role="img" aria-label="QuickMsg preview">
+  <rect width="760" height="475" fill="#0A0B10"/>
+  <path d="M0 0h760v475H0z" fill="#5B8CFF" opacity=".08"/>
+  <rect x="96" y="78" width="568" height="318" rx="24" fill="#111114" stroke="#2C3142"/>
+  <rect x="140" y="126" width="260" height="56" rx="18" fill="#5B8CFF"/>
+  <rect x="358" y="208" width="262" height="56" rx="18" fill="#182033" stroke="#30415F"/>
+  <rect x="140" y="290" width="318" height="56" rx="18" fill="#00E5FF" opacity=".75"/>
+  <circle cx="606" cy="128" r="34" fill="#7C4DFF"/>
+  <text x="112" y="430" fill="#fff" font-family="Inter, Arial" font-size="34" font-weight="900">QuickMsg</text>
+</svg>
